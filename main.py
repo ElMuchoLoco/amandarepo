@@ -1,4 +1,4 @@
-def sendMessage():
-    print("Message Meep Meep")
+def sendMessage(string AnyMessage):
+    print(AnyMessage)
 
-sendMessage()
+sendMessage("Woop Woop")
